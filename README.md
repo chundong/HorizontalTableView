@@ -12,3 +12,6 @@ HorizontalTableView
 这个横向tableview不同的地方在于可以设置是否显示导航，导航显示的位置也可以调整。如下图。导航就是红色区域的section等按钮。界面是丑了点，讲究看吧
 
 ![Demo演示](https://raw.githubusercontent.com/chundong/HorizontalTableView/master/demo.gif)
+
+导航先显示。
+![导航在上面的](https://raw.githubusercontent.com/chundong/HorizontalTableView/master/demo.png)
