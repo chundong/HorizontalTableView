@@ -14,4 +14,5 @@ HorizontalTableView
 ![Demo演示](https://raw.githubusercontent.com/chundong/HorizontalTableView/master/demo.gif)
 
 导航先显示。
+
 ![导航在上面的](https://raw.githubusercontent.com/chundong/HorizontalTableView/master/demo.png)
