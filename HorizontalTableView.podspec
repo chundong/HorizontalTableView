@@ -15,9 +15,9 @@ Pod::Spec.new do |s|
   #  summary should be tweet-length, and the description more in depth.
   #
 
-  s.name         = "HorizontalTableView"
+  s.name         = "SimpleHorizontalTableView"
   s.version      = "0.0.1"
-  s.summary      = "HorizontalTableView "
+  s.summary      = "simple Horizontal TableView "
 
   s.description  = <<-DESC
                     一个简单的横向tableview，为了方便实现新闻客户端
